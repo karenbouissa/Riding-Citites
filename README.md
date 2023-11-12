@@ -18,9 +18,9 @@ This task was undertaken for the second project within the OpenClassrooms Web In
 
 My assignment involves updating the Riding Cities web page according to the following specifications :
 
-- Introduce a novel section titled "Founding Members," featuring the names and photographs of the association's creators.
+- Introduce a novel section titled "Founding Members," featuring the names and photographs of the association creators.
 
 - Revise the section housing the "Download Course Schedule" button to incorporate a heading and two buttons facilitating the download of distinct course schedules—one tailored for children and another for adults.
 
-The development of this prototype utilized HTML5 and CSS3.
+The development of this prototype has been made with HTML5 and CSS3.
 
