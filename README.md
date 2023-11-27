@@ -24,3 +24,4 @@ My assignment involves updating the Riding Cities web page according to the foll
 
 The development of this prototype has been made with HTML5 and CSS3.
 
+https://karenbouissa.github.io/Riding-Citites/
